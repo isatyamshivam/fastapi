@@ -1,16 +1,3 @@
-# FastAPI Starter
-
-A minimal and ready-to-use [FastAPI](https://fastapi.tiangolo.com/) REST API template for rapid project setup.
-
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/fastapi-1?referralCode=asepsp&utm_medium=integration&utm_source=template&utm_campaign=generic)
-
-![static-site](preview.png)
-
-## ✨ Features
-
-- FastAPI
-- [Hypercorn](https://hypercorn.readthedocs.io/)
-- Python 3
 
 ## 💁‍♀️ How to use
 
